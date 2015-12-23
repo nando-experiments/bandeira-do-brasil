@@ -1,0 +1,11 @@
+{
+  "name": "bandeira-do-brasil",
+  "version": "1.0.0",
+  "description": "Bandeira do Brasil apenas com CSS",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nandomoreirame/bandeira-do-brasil.git"
+  },
+  "author": "Fernando Moreira",
+  "license": "MIT"
+}
