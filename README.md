@@ -1,10 +1,11 @@
-# Bandeira do Brasil com CSS 
+# Bandeira do Brasil com CSS
 
-> :scream: Bandeira do Brasil apenas com CSS 
+> :scream: Bandeira do Brasil apenas com CSS
 
 
 #### [Preview](http://nandomoreira.me/bandeira-do-brasil)
 
+![Bandeira do Brasil com CSS](/screenshot.png)
 
 ### Copyright and license
 
