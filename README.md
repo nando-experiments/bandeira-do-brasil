@@ -2,11 +2,9 @@
 
 > :scream: Bandeira do Brasil apenas com CSS 
 
----
 
 #### [Preview](http://nandomoreira.me/bandeira-do-brasil)
 
----
 
 ### Copyright and license
 
