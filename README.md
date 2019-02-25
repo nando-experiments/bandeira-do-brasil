@@ -2,8 +2,7 @@
 
 > :scream: Bandeira do Brasil apenas com CSS
 
-
-#### [Preview](https://github.nandomoreira.me/bandeira-do-brasil)
+#### [Preview](http://nando-experiments.github.io/bandeira-do-brasil/)
 
 ![Bandeira do Brasil com CSS](/screenshot.png)
 
